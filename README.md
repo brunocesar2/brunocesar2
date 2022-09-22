@@ -10,7 +10,7 @@
   <img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-##
+<br>
 
 <div>
   <a href="https://github.com/brunocesar2">
